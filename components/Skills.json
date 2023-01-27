@@ -1,12 +1,12 @@
 {
     "Skills": [
         {
-            "img": "https://ionicframework.com/docs/icons/logo-react-icon.png",
-            "progress": 80
-        },
-        {
             "img": "https://www.mementotech.in/assets/images/icons/express.png",
             "progress": 40
+        },
+        {
+            "img": "https://ionicframework.com/docs/icons/logo-react-icon.png",
+            "progress": 80
         },
         {
             "img": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld",
@@ -41,7 +41,7 @@
             "progress": 50
         },
         {
-            "img": "https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format",
+            "img": "https://res.cloudinary.com/ratracegrad/image/upload/v1672179613/Screenshot_2022-12-27_at_5.19.27_PM_h2ncza.png",
             "progress": 90
         },
         {

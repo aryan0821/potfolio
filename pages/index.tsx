@@ -12,6 +12,7 @@ import Link from 'next/link';
 import experiences from '../components/Experiences.json'
 import skills from '../components/Skills.json'
 import projects from '../components/Projects.json'
+import { useEffect, useState } from 'react';
 
 
 const Home: NextPage = () => {
@@ -24,7 +25,7 @@ const Home: NextPage = () => {
       <Header />
 
       {/* Hero */}
-      <Particles />
+      <Particles/>
       <section id='hero' className="snap-start z-10">
         <Hero />
       </section>

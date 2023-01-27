@@ -3,8 +3,8 @@ import { loadSlim } from 'tsparticles-slim'
 // import { loadFull } from 'tsparticles'
 import React, { useCallback, useMemo } from 'react'
 
+
 const ParticleComponent = () => {
-    let scaleParticles = 1000;
     const options = useMemo(() => {
         return {
             fullScreen: {
@@ -29,7 +29,7 @@ const ParticleComponent = () => {
             },
             particles: {
                 number: {
-                    value: scaleParticles / 20,
+                    value: 40,
                 },
                 links: {
                     enable: true,

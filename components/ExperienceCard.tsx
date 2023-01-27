@@ -12,7 +12,7 @@ type Props = {
 
 export default function ExperienceCard({ img, position, company, date, skills, desc}: Props) {
     return (
-        <article className='flex flex-col rounded-lg items-center space-y-7 flex-shrink-0 w-[400px] md:w-[600px] xl:w-[800px] snap-center bg-gradient-to-r from-[#044689] via-[#1a074d] to-[#3172b44b] p-8 
+        <article className='flex flex-col rounded-lg items-center space-y-7 flex-shrink-0 w-[300px] md:w-[600px] xl:w-[800px] snap-center bg-gradient-to-r from-[#044689] via-[#1a074d] to-[#3172b44b] p-8 
         hover:opacity-100 opacity-50 cursor-pointer transition-opacity duration-200 overflow-hidden'>
             {/* Company logo */}
             <motion.img
