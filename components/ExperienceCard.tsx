@@ -30,14 +30,14 @@ export default function ExperienceCard({ img, position, company, date, skills, d
                 <p className='font-bold text-xl my-1'>{company}</p>
                 <div className="flex space-x-2 my-1"> 
                     {/* Tech used */}
-                    {skills.map((skill) => <img src={skill} className='h-8 w-8 rounded-full' />)}
+                    {skills.map((skill, index) => <img key={index} src={skill} className='h-8 w-8 rounded-full' />)}
                 </div>
                 {/* Dates */}
                 <p className='uppercase py-2 text-gray-300'>{date}</p>
 
                 {/* Summary */}
                 <ul className='list-disc space-y-3 ml-5 text-lg'>
-                    {desc.map((item) => <li>{item}</li>)}
+                    {desc.map((item, index) => <li key={index}>{item}</li>)}
                 </ul>
             </div>
         </article >
