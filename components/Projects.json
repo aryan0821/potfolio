@@ -1,0 +1,34 @@
+{
+    "Projs": [
+        {
+            "img": "./MASSPirg.png",
+            "link": "https://github.com/build-umass/MassPIRG-Frontend",
+            "title": "MASSPirg Website (In Progress)",
+            "desc": "An interactive website with a modern design made using the MERN Stack and designed on Figma. This project was built in a group of 6 people for a national volunteering organization called MASSPirg. The goal of the project is to successfully incorporate user requirements and feedback and create an informative website for the general public. One of the goals is to enable the members of the organization to dynamically control the data on the website which will be achieved through the ExpressJS + MongoDB backend."
+        },
+        {
+            "img": "./Filter.png",
+            "link": "https://github.com/aryan0821/FilterStudioCRM",
+            "title": "FILTER Studio CRM Application",
+            "desc": "This project was made for a high-end salon in Mumbai, India. I designed and developed a Customer Retail Management software that included features such as appointment management, employee payroll management, billing and financial reports. The application was made using Figma, MySQL and a Java framework called Netbeans. Check out the demo on GitHub."
+        },
+        {
+            "img": "./Portfolio.png",
+            "link": "https://github.com/aryan0821/portfolio",
+            "title": "Porfolio Website",
+            "desc": "This portfolio website was built using NextJS, ReactJS and TailwindCSS. The main goal of this build was to achieve a seamless user interface and boast a great design. Over the month that it took to build this website I learnt a lot about ReactJS as well as NextJS and have greatly improved my design skills."
+        },
+        {
+            "img": "./Pygame.png",
+            "link": "https://github.com/aryan0821/pygame_projects/tree/main/pygame_files",
+            "title": "Pygame Projects",
+            "desc": "Built a Space Invaders style game & a platformer game using the Python Pygame Library. Learnt about the usage and design of sprites. This was my introduction to game development and where I first learnt about the event loop."
+        },
+        {
+            "img": "./Research.png",
+            "link": "https://docs.google.com/document/d/1XutGq5TwCZ_lhDg65DfZnhI-CIZdPa4JekQgWhQ2sGU/edit?usp=sharing",
+            "title": "Genetic Algorithms Research Paper",
+            "desc": "Wrote a research paper exploring the effectiveness of different selection techniques used in genetic algorithms. The research question for the paper was 'How does Roulette wheel selection perform in comparison to Tournament selection for solving numerical optimization problems using genetic algorithms in terms of convergence rate and data accuracy?'. The experiments were conducted on Matlab and measured the optimization speeds of each algorithm on De Jong's 5 standard functions."
+        }
+    ]
+}

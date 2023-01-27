@@ -1,0 +1,68 @@
+{
+    "experiences": [
+        {
+            "img": "https://media.licdn.com/dms/image/C4D0BAQEOOjB5evIbRA/company-logo_200_200/0/1599844443141?e=2147483647&v=beta&t=vHYPOQkLHEleov5Sx_ii_Q0CIr6r7DkY0F4bCnRe_Ak",
+            "position": "Software Developer",
+            "company": "BUILD UMass",
+            "date": "October 2022 - Present",
+            "skills": [
+                "https://ionicframework.com/docs/icons/logo-react-icon.png",
+                "https://www.mementotech.in/assets/images/icons/express.png",
+                "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld",
+                "https://w7.pngwing.com/pngs/780/57/png-transparent-node-js-javascript-database-mongodb-native-miscellaneous-text-trademark.png"
+            ],
+            "desc": [
+                "Collaborating with a skilled group of business and software developers to build software solutions for local clients including non-profit organizations, startups, and local businesses.",
+                "Working with a volunteer organization called MASSPIRG to revamp their legacy website using the MERN stack to ameliorate interactiveness and design quality.",
+                "Utilizing the agile methodology, collecting customer feedback, and going above and beyond to surpass customer expectations."
+            ]
+        },
+        {
+            "img": "https://1000logos.net/wp-content/uploads/2022/02/Massachusetts-Minutemen-Logo-2012.png",
+            "position": "CS + Math Peer Tutor",
+            "company": "UMass Learning Resource Center",
+            "date": "October 2022 - Present",
+            "skills": [
+                "https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg",
+                "https://ih1.redbubble.net/image.120821109.4458/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"
+            ],
+            "desc": [
+                "Utilizing strong foundations in computer science and math to teach and mentor students on a 1:1 appointment or drop-in basis.",
+                "Assisting students in Calc I, Calc II, Intro to Problem Solving, and Programming with Data Structures by reviewing lecture content, concept reviews, exam preparation, etc.",
+                "Utilizing the agile methodology, collecting customer feedback, and going above and beyond to surpass customer expectations."
+            ]
+        },
+        {
+            "img": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/305961023_487385810062708_4865143233187941227_n.png?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=JYtsq2hty4wAX8rNqdW&_nc_ht=scontent-lga3-2.xx&oh=00_AfAv20vN2coKh5ts-sDMKhfM9OVGM8UXuH865z1G7SscHA&oe=63D65F56",
+            "position": "Pisciner",
+            "company": "42 Academy, Abu Dhabi",
+            "date": "July 2022 - September 2022",
+            "skills": [
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png",
+                "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
+                "https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png"
+            ],
+            "desc": [
+                "One of 200 out of 10,000 applicants who qualified to participate in a 25 day intensive coding bootcamp at one of the prestigious 42 campuses.",
+                "Led a team of 3 in a peer to peer learning environment to solve algorithmic problems in the C language.",
+                "Ameliorated my skills in Git, Unix Shell scripting and C language through the creation of a multipurpose C library tacking efficient string manipulation."
+            ]
+        },
+        {
+            "img": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/307869802_467753832043327_606834444781946738_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=hlOoQf0uWOAAX_iRtUH&_nc_ht=scontent-lga3-2.xx&oh=00_AfAkNA0yhy_wGTB166TmAQWejRSzjklH13_elWXJotbqtA&oe=63D63F03",
+            "position": "Freelance Application Developer",
+            "company": "Filter Studio, Mumbai",
+            "date": "June 2019 - August 2019",
+            "skills": [
+                "https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format",
+                "https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg",
+                "https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"
+            ],
+            "desc": [
+                "Designed and developed a Customer Retail Management System for a salon, including features such as appointment management, employee payroll management, billing and financial reports.",
+                "Acted on feedback received throughout the product development cycle and ultimately helped save 10+ hours from the receptionist and owner's workweek."
+            ]
+        }
+    ]
+}
