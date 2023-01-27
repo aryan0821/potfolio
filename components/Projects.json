@@ -15,8 +15,8 @@
         {
             "img": "./Portfolio.png",
             "link": "https://github.com/aryan0821/portfolio",
-            "title": "Porfolio Website",
-            "desc": "This portfolio website was built using NextJS, ReactJS and TailwindCSS. The main goal of this build was to achieve a seamless user interface and boast a great design. Over the month that it took to build this website I learnt a lot about ReactJS as well as NextJS and have greatly improved my design skills."
+            "title": "Portfolio Website",
+            "desc": "This portfolio website was built using Typescript, NextJS, ReactJS and TailwindCSS. The main goal of this build was to achieve a seamless user interface and boast a great design. Over the month that it took to build this website I learnt a lot about ReactJS as well as NextJS and have greatly improved my design skills."
         },
         {
             "img": "./Pygame.png",

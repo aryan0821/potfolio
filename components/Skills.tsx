@@ -15,7 +15,7 @@ export default function Skills({ sks }: Props) {
             <h3 className='absolute top-36 uppercase tracking-[5px] text-blue-200 text-sm'>Hover over the skills</h3>
 
             <div className='grid grid-cols-4 gap-5'>
-                {sksList.map((skill: { img: string; progress: number}) => <Skill img={skill.img} progress={skill.progress} /> )}
+                {sksList.map((skill: { img: string; progress: number }, index: number) => <Skill key={index} img={skill.img} progress={skill.progress} /> )}
             </div>
         </motion.div>
     )
