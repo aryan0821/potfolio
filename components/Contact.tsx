@@ -35,11 +35,9 @@ export default function Contact({ }: Props) {
 
                 </div>
 
-                <form onSubmit={handleSubmit(onSubmit)} className='flex flex-col space-y-2 w-fit mx-auto'>
-                    <div className='flex space-x-1 w-fit'>
-                        <input {...register('name')} placeholder="Name" className='contactInput' type="text" />
-                        <input {...register('email')} placeholder="Email" className='contactInput' type="email" />
-                    </div>
+                <form onSubmit={handleSubmit(onSubmit)} className='flex flex-col space-y-2 justify-evenly w-[300px] mx-auto overflow-x-auto flex-shrink-3'>
+                    <input {...register('name')} placeholder="Name" className='contactInput' type="text" />
+                    <input {...register('email')} placeholder="Email" className='contactInput' type="email" />
                     <input {...register('subject')} placeholder="Subject" className='contactInput' type="text" />
                     <textarea {...register('message')} placeholder="Message" className='contactInput'></textarea>
                     <button type="submit" className='bg-gradient-to-r from-[#044689] via-[#4c9ae2] to-[#a2d0fa] py-3 px-10 rounded-lg text-black font-bold text-lg'>Submit</button>
