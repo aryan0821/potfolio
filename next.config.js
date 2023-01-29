@@ -91,6 +91,12 @@ module.exports = {
         port: '',
         pathname: '/wp-content/uploads/2016/08/netbeans-free-download.png',
       },
+      {
+        protocol: 'https',
+        hostname: '42.fr',
+        port: '',
+        pathname: '/wp-content/uploads/2021/08/42.jpg',
+      },
     ],
   },
 }
