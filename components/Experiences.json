@@ -1,6 +1,45 @@
 {
     "experiences": [
         {
+            "img": "https://www.temenos.com/wp-content/uploads/2022/10/Impactsure-logo-800x800-1-400x400.jpg",
+            "position": "Data Science Intern",
+            "company": "Impactsure Technologies",
+            "date": "June 2023 - Present",
+            "skills": [
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
+                "https://i.stack.imgur.com/RtNrs.png",
+                "https://www.pngkey.com/png/detail/96-961478_in-order-to-show-how-holoviews-works-well.png",
+                "https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png",
+                "https://w7.pngwing.com/pngs/609/443/png-transparent-django-original-logo-icon.png",
+                "https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"
+            ],
+            "desc": [
+                "Utilizing advanced computer vision techniques in creating a robust engine for extraction of tabular data from financial documents using Python and OpenCV",
+                "Utilizing machine learning models to improve the accuracy of extraction from distorted and low quality images",
+                "Learning about microservice architecture by designing and integrating a Django microservice into the company's product suite",
+                "Learning about ISMS standards and contributing to the company's ISMS certification by participating in trainings and audits"
+            ]
+        },
+        {
+            "img": "https://pbs.twimg.com/profile_images/905902678026354688/c_4AcKhd_400x400.jpg",
+            "position": "Incoming UCA",
+            "company": "UMass Manning CICS",
+            "date": "September 2023 - December 2023",
+            "skills": [
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
+                "https://i.stack.imgur.com/RtNrs.png",
+                "https://www.pngkey.com/png/detail/96-961478_in-order-to-show-how-holoviews-works-well.png",
+                "https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png",
+                "https://w7.pngwing.com/pngs/609/443/png-transparent-django-original-logo-icon.png",
+                "https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"
+            ],
+            "desc": [
+                "Assisting students in CS320:Intro to software engineering as an undergraduate course assistant.",
+                "Acting as a resource for students by providing guidance on the course material and helping them debug their code, as well as providing feedback on their project design and implementation",
+                "Conducting Office hours, grading assignments and exams, and assisting the professor in the course administration"
+            ]
+        },
+        {
             "img": "https://media.licdn.com/dms/image/C4D0BAQEOOjB5evIbRA/company-logo_200_200/0/1599844443141?e=2147483647&v=beta&t=vHYPOQkLHEleov5Sx_ii_Q0CIr6r7DkY0F4bCnRe_Ak",
             "position": "Software Developer",
             "company": "BUILD UMass",
@@ -24,12 +63,12 @@
             "date": "October 2022 - Present",
             "skills": [
                 "https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg",
-                "https://ih1.redbubble.net/image.120821109.4458/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
                 "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"
             ],
             "desc": [
                 "Utilizing strong foundations in computer science and math to teach and mentor students on a 1:1 appointment or drop-in basis.",
-                "Assisting students in Calc I, Calc II, Intro to Problem Solving, and Programming with Data Structures by reviewing lecture content, concept reviews, exam preparation, etc.",
+                "Assisting students in Calc I, Calc II, Intro to Problem Solving, and Programming with Data Structures as well as a multitude of python courses by reviewing lecture content, concept reviews, exam preparation, etc.",
                 "Utilizing the agile methodology, collecting customer feedback, and going above and beyond to surpass customer expectations."
             ]
         },

@@ -12,8 +12,8 @@ type Props = {
 
 export default function ExperienceCard({ img, position, company, date, skills, desc}: Props) {
     return (
-        <article className='flex flex-col rounded-lg items-center space-y-7 flex-shrink-0 w-[300px] md:w-[600px] xl:w-[800px] snap-center bg-gradient-to-r from-[#044689] via-[#1a074d] to-[#3172b44b] p-8 
-        hover:opacity-100 opacity-50 cursor-pointer transition-opacity duration-200 overflow-hidden'>
+        <article className='flex flex-col rounded-lg items-center space-y-5 flex-shrink-0 w-[300px] md:w-[600px] xl:w-[800px] snap-center snap-mandatory bg-gradient-to-r from-[#044689] via-[#1a074d] to-[#3172b44b] p-8 
+        hover:opacity-100 opacity-50 transition-opacity duration-200 overflow-auto'>
             {/* Company logo */}
             <motion.img
                 initial={{y:-100, opacity: 0}}
@@ -21,7 +21,7 @@ export default function ExperienceCard({ img, position, company, date, skills, d
                 whileInView={{ opacity: 1, y:0 }}
                 viewport={{ once: true}}
                 src={img}
-                className='rounded-full w-[75px] h-[75px] md:w-[90px] md:h-[90px] xl:w-[100px] xl:h-[100px] object-cover object-center border border-gray-300'
+                className='rounded-full w-[75px] h-[75px] md:w-[90px] md:h-[90px] xl:w-[100px] xl:h-[100px] object-cover object-center border border-[#f7f7f8]'
                 alt={company}
             />
             {/* credentials */}

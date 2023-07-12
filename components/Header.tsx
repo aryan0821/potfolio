@@ -45,7 +45,7 @@ export default function Header({ }: Props) {
                 }}
                 className='flex flex-row items-center text-gray-300 cursor-pointer'>
                 <SocialIcon className='cursor-pointer transition-all' network='email' fgColor='white' bgColor='transparent' />
-                <p className='uppercase hidden md:inline-flex text-sm text-white-400 transition-all hover:border-[#a2d0fa] hover:text-[#a2d0fa] '>Contact me</p>
+                <h2 className='uppercase hidden md:inline-flex text-sm text-white-400 transition-all hover:border-[#a2d0fa] hover:text-[#a2d0fa] font-bold '>Contact Me!</h2>
                 </motion.div>
             </Link>
         </header>

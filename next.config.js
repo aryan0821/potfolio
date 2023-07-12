@@ -97,6 +97,36 @@ module.exports = {
         port: '',
         pathname: '/wp-content/uploads/2021/08/42.jpg',
       },
+      {
+        protocol: 'https',
+        hostname: 'i.stack.imgur.com',
+        port: '',
+        pathname: '/RtNrs.png',
+      },
+      {
+        protocol: 'https',
+        hostname: 'seeklogo.com',
+        port: '',
+        pathname: '/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png',
+      },
+      {
+        protocol: 'https',
+        hostname: 'w7.pngwing.com',
+        port: '',
+        pathname: '/pngs/609/443/png-transparent-django-original-logo-icon.png',
+      },
+      {
+        protocol: 'https',
+        hostname: 'www.temenos.com',
+        port: '',
+        pathname: '/wp-content/uploads/2022/10/Impactsure-logo-800x800-1-400x400.jpg',
+      },
+      {
+        protocol: 'https',
+        hostname: 'pbs.twimg.com',
+        port: '',
+        pathname: '/profile_images/905902678026354688/c_4AcKhd_400x400.jpg',
+      },
     ],
   },
 }

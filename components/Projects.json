@@ -1,10 +1,22 @@
 {
     "Projs": [
         {
+            "img": "/ImpactsureProj.png",
+            "link": "",
+            "title": "Tabular Data Extraction using OpenCV",
+            "desc": "This project was made during my data science internship at Impactsure. The goal of the project was to extract tabular data from images/scans of documents. I utilized computer vision techniques to extract the data from distorted tables and then used the Tesseract OCR engine to convert the data into a CSV file. The project was made using Python and OpenCV. I'm currently researching pre-trained models on HuggingFace to improve the accuracy of the model. The engine runs on a microservice created using Django and MySQL."
+        },
+        {
+            "img": "/ShareSpace.png",
+            "link": "https://share-space.netlify.app/",
+            "title": "ShareSpace Roommate Finder",
+            "desc": "ShareSpace is a web application that helps students find roommates based on their preferences. The application was built using ReactJS, NodeJS, ExpressJS and MySQL using Sequelize. The application allows users to create an account, fill out a questionnaire and find roommates based on their preferences. The application also allows users to create and update their profiles. The application also has a messaging feature that allows users to communicate with each other. The application was built in a team of 9 and helped me learn a lot about teamwork in software engineering and the importance of version control."
+        },
+        {
             "img": "/MASSPirg.png",
-            "link": "https://github.com/build-umass/MassPIRG-Frontend",
-            "title": "MASSPirg Website (In Progress)",
-            "desc": "An interactive website with a modern design made using the MERN Stack and designed on Figma. This project was built in a group of 6 people for a national volunteering organization called MASSPirg. The goal of the project is to successfully incorporate user requirements and feedback and create an informative website for the general public. One of the goals is to enable the members of the organization to dynamically control the data on the website which will be achieved through the ExpressJS + MongoDB backend."
+            "link": "https://umass-pirg-demo.netlify.app/",
+            "title": "MASSPirg Website",
+            "desc": "As a software developer at BUILD UMass, we worked on a pro bono project with a non-profit, non-partisan, public interest organization called MASSPirg. The client's requirement was a renovated version of the legacy MASSPirg website. The website was created using modern JS frameworks and included a robust backend. The club members are allowed to log in and add, update and delete information on the website. The goal of the project was to successfully incorporate user requirements and feedback and create an informative website. We received stellar feedback from the client and the website is currently live."
         },
         {
             "img": "/Filter.png",
@@ -16,13 +28,13 @@
             "img": "/Portfolio.png",
             "link": "https://github.com/aryan0821/portfolio",
             "title": "Portfolio Website",
-            "desc": "This portfolio website was built using Typescript, NextJS, ReactJS and TailwindCSS. The main goal of this build was to achieve a seamless user interface and boast a great design. Over the month that it took to build this website I learnt a lot about ReactJS as well as NextJS and have greatly improved my design skills."
+            "desc": "This portfolio website was built using Typescript, NextJS, ReactJS and TailwindCSS including libraries such as ReactAOS and react-typewriter. The main goal of this build was to achieve a seamless user interface and boast a great design. Over the month that it took to build this website I learnt a lot about ReactJS as well as NextJS and have greatly improved my design skills. I have also updated the website numerous times and kept coding best practices at the forefront of my mind. Check out the code on GitHub."
         },
         {
             "img": "/Pygame.png",
             "link": "https://github.com/aryan0821/pygame_projects/tree/main/pygame_files",
             "title": "Pygame Projects",
-            "desc": "Built a Space Invaders style game & a platformer game using the Python Pygame Library. Learnt about the usage and design of sprites. This was my introduction to game development and where I first learnt about the event loop."
+            "desc": "Built a Space Invaders style game & a platformer game using the Python Pygame Library. Learnt about the usage and design of sprites. This was my introduction to game development with an interactive interface. Built a second game that was a combo between pong and air hockey using Pygame. This project helped me learn about the importance of game physics and how to implement them in a game."
         },
         {
             "img": "/Research.png",
