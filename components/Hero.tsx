@@ -9,7 +9,7 @@ type Props = {}
 
 export default function Hero({ }: Props) {
     const [text, count] = useTypewriter({
-        words: ["Hello, I'm Aryan.", "Aspiring SWE.", "Perpetual Learner."],
+        words: ["CS + Math @ UMass", "Aspiring SWE", "Perpetual Learner", "Passionate Coder"],
         loop: true,
         delaySpeed: 2000,
     });
@@ -19,7 +19,7 @@ export default function Hero({ }: Props) {
             <BackgroundCircles />
             <Image alt="Aryan" src="/aryan-edit.png" width="100" height="100" className="relative rounded-full h-36 w-36 mx-auto object-cover z-20" />
             <div className='z-20 xl:w-screen md:w-screen max-md:w-80 sm:w-80'>
-                <h2 className='text-sm uppercase text-gray-200 pb-2 tracking-[10px] font-semibold'>CS + Math @ UMASS</h2>
+                <h2 className='text-sm uppercase text-gray-200 pb-2 tracking-[10px] font-semibold'>Hey I'm Aryan</h2>
                 <h1 className='text-5xl lg:text-6xl font-semibold px-10'>
                     <span className='mr-3 text-2xl md:text-5xl xl:text-5xl'>{text}</span>
                 </h1>
